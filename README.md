@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="./src/images/RHK Trading Logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./RHK Trading Logo.png" alt="logo" width="140"  height="auto" />
   <br/>
   <h3><b>Unit Test Practice</b></h3>
 </div>
